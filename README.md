@@ -19,6 +19,7 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE AND OUTPUT:
 Name: G.TEJASWINI
+
 Reg no:212222230157
 
 ```python
